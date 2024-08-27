@@ -1,0 +1,8 @@
+plants1:2278
+plants2:978
+plants3:852
+plants4:838
+plants5:431
+plants6:334
+plants7:327
+plants8:0
